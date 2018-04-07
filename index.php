@@ -19,9 +19,9 @@ Requirements
 
 function ValidateNumber($number,$multiple_rules) {
 	foreach ($multiple_rules as $value) {
-    	if (($number%$value[0]==0) && ($number%$value[1]==0)){
-    		return $value[2];
-    	}
+    		if (($number%$value[0]==0) && ($number%$value[1]==0)){
+    			return $value[2];
+    		}
 	}
 	return $number;
 } 
