@@ -1,7 +1,7 @@
 # LinioChallenge
 
 The requirements of the challenge do not describe the use of frameworks, attached libraries or external APIs, so the way to solve it was the simplest, fastest and easiest to me. But it would comply with the requirements.
-<br/>
+
 program description:
 Challenge - Backend Developer
 Write a program that prints all the numbers from 1 to 100. However, for
